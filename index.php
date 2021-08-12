@@ -9,7 +9,7 @@
          Email:<br> <input type="text" name="email"><br>
          <input type="submit">
       </form>
-      <hr>
+      <hr> 
       <!-- Welcome: <?php echo $_POST["name"]; ?> <br>
       Your email address is: <?php echo $_POST["email"]; ?> <br> -->
       
